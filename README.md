@@ -1,10 +1,10 @@
-##Gulp-tools
+## Gulp-tools
 
 Learning how to use Gulp task runner.
 
-##Instruction
+## Instruction
 
-###Install gulp globally:
+### Install gulp globally:
 
 1. Navigate to project folder in Command line.
 2. Install the gulp command: `npm install --global gulp-cli`.
