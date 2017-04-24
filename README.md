@@ -9,7 +9,7 @@ Learning how to use Gulp task runner.
 1. Navigate to project folder in Command line.
 2. Install the gulp command: `npm install --global gulp-cli`.
 
-###Install packages from devDependencies:
+### Install packages from devDependencies:
 
 Run `npm install`. After that all required mudules will be installed.
 
